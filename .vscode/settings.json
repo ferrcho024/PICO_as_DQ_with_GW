@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.cpp": "c",
+        "system_error": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "connectivity.h": "c",
+        "mstd_iterator": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "stdlib.h": "c",
+        "pubsubclient.h": "c",
+        "task.h": "c",
+        "dimensions.h": "c",
+        "kiss_fft_common.h": "c",
+        "cmath": "c",
+        "complex": "c"
+    }
+}
